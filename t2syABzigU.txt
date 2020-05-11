@@ -791,7 +791,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1ODkyMzY0MTh9fX1dfQ__&Signature=u3cSuLUOLed2j88bC6Rh62YlDQR5SQTemonNSpU52MgziVFcu60FtPTNr7ttFAEAZF8nX4-vTt-CJLtmz7Kt3U496NluKhXR~sHk2lkXQ7QJxOcTS-1MwiwO--2996fUGC~yi4wkd08Duht-4WeZ8CZm02ZfX7sy-wC07FQdG-AswUF0PCXyymPNSo8fE57rkvzrgaKbCYIpSRpgUGjwBKzwibk-toJVj-RoZzvJvFv084OoVYB68IzXrYJuTV7x0AfQNSZ~yAdWWQ3yfg7caVhnP3FPQLjDd9sEiHJGCoXuT19HI7BpYOQKYXfHyh27uESEKZrvMz41zPTi9MY8SQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",FOX
