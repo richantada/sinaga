@@ -884,7 +884,7 @@ http://203.153.218.28:9981/stream/channelid/861591723
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO HIT
 http://203.153.218.28:9981/stream/channelid/78064174
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO
-http://203.153.218.28:9981/stream/channelid/1299824667
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1ODkyMzcxMDN9fX1dfQ__&Signature=j-Oa7GUYKDnNwRSZrcH4Zc1fSSeyB7AWUW8slDwfSISHw0PAJMpasK~hhBVDONNdWClkvt7zP8TCGICuyxh0a-8BcBDTTnQaGg5y7D3UI92JCa~2MB9cl7e8ZtVB3uAghJ-~rGCvZHR2vvXpisjOwr7uEnkAGeFWOnAAVKgT89fIA7Aa~f4V076PxWdwWX5CNJt-fgVX863e6opweRUfj2vCcu42Nt2iM~kUcHgsxohHlHIIkxLvx2IIBT8TkhSqw4hjeFFcKB7wY1VJ5xlBzTjqrUt5Shb-VcRif0r6HCI0so55xi8uVVbmBBAIYsLIGpuUJcSX09~8s4zOVtNvNA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",Disney Channel
