@@ -791,7 +791,8 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://stgiptv.online/LogoTV/logo_hbo_hd.png" group-title="INDIHOME",HBO HD
-http://www.stgiptv.tech:25461/live/davier/J4N6ANDIBON6K4RANJINGKAU/67.m3u8#EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO FAMILY
+http://www.stgiptv.tech:25461/live/davier/J4N6ANDIBON6K4RANJINGKAU/67.m3u8
+#EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:Sinaga.jpg" group-title="INDIHOME",FOX
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
