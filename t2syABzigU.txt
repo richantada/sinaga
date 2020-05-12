@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="USEETV FULL",info
-https://voca.ro/bKxUzfAD0K6
+https://youtu.be/a8uol6MMpbg
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="USEETV FULL",USEESPORT 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="USEETV FULL",USEESPORT 2
