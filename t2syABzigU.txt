@@ -792,7 +792,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",FOX
