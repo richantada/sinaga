@@ -790,8 +790,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",FOX
@@ -859,8 +858,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO
-http://203.153.218.28:9981/stream/channelid/1299824667
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",FOX Family Movies
@@ -885,8 +883,7 @@ http://203.153.218.28:9981/stream/channelid/882386103
 http://203.153.218.28:9981/stream/channelid/861591723
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO HIT
 http://203.153.218.28:9981/stream/channelid/78064174
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",HBO
-http://203.153.218.28:9981/stream/channelid/1299824667
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="INDIHOME",Disney Channel
