@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/mw.png" group-title="", Join MW Channel
-https://dl.dropbox.com/s/9hl066j6c8wmx9a/mulai.mp4?dl=0
+
+
+#EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="Lokal",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="-" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="Lokal",RCTI 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="Lokal",MNC TV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="kompas"  tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8t4Zw0-CJLp77YHMTTs_JwXVnaI=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="Lokal HD", kompas
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1596046435/ei/A2ghX8TSEcOZwgPH56fICA/ip/180.254.100.158/id/gIB2egm7tL8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-2uuxa3vh-wvbl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2700/mh/uj/mm/44/mn/sn-2uuxa3vh-wvbl/ms/lva/mv/m/mvi/2/pl/20/dover/11/keepalive/yes/fexp/23883098/mt/1596024677/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgV3xQ_-eN9SDnmIUV1s3ZYHHDhN0kgNw6Hv268b8NXfUCIQD49yQLA8Yg7p3-4Qa74wRCyq81KEJzse6YRkbcDDHwaA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANq8riG7_8BGzqcUkXWQ0nsC0gLnmHQHYyndkB7CLX_UAiBQonTzFscZTlW3cTP6XpO-uyNl9WKB2aFk7hzEnIs2Mg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="kompastv"  tvg-logo="https://iix123.us.to/logo/kompastv.png" group-title="Lokal", kompastv
