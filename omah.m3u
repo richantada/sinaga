@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/omah.png" group-title="", Join Omah TV
-https://dl.dropbox.com/s/9hl066j6c8wmx9a/mulai.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/omah.png" group-title="", http://t.me/omahtv
-https://dl.dropbox.com/s/9hl066j6c8wmx9a/mulai.mp4?dl=0
+
 #EXTINF:-1 tvg-id="kompas"  tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8t4Zw0-CJLp77YHMTTs_JwXVnaI=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="Lokal HD", kompas
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1596111232/ei/H2UiX83lOeD24-EPu4qx8Ag/ip/180.254.100.158/id/gIB2egm7tL8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-2uuxa3vh-wvbl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3030/mh/uj/mm/44/mn/sn-2uuxa3vh-wvbl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/20/dover/11/keepalive/yes/fexp/23883098/beids/9466586/mt/1596089532/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAL0oebzOs2NkgmaSmNvNndEdeZL8i1Y2TvWiNVUWdIKdAiAddGYU1XwxyKxPDATv3VdfH8v17WQnP0HDQfmq3V3Xrg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIhAJrWktKQuwpHMGUm8EbWUf50yn63nDsvK0xfg2iQuOSTAiAL61LOn6YTPhlZmVvBpoSDi4A3uJB5onFBQfHPDUgybg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="kompastv"  tvg-logo="https://iix123.us.to/logo/kompastv.png" group-title="Lokal", kompastv
