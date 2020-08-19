@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 1
+http://ingrid.ltd:25461/Juan123456/Juan123456/15178
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 2
+http://ingrid.ltd:25461/Juan123456/Juan123456/15177
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 3
+http://ingrid.ltd:25461/Juan123456/Juan123456/15176
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 4
+http://ingrid.ltd:25461/Juan123456/Juan123456/15175
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 5
+http://ingrid.ltd:25461/Juan123456/Juan123456/15174
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 6
+http://ingrid.ltd:25461/Juan123456/Juan123456/15173
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 7
+http://ingrid.ltd:25461/Juan123456/Juan123456/15172
+#EXTINF:-1 group-title="BEINSPORT",US: Bein Sports 8
+http://ingrid.ltd:25461/Juan123456/Juan123456/15171
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Dazn 1 HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Dazn 2 HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Euro Sport 1 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Euro Sport 2 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5888.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sport Digital HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5919.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Motor Vision HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5920.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Auto Moto Sport HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5921.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Eurosport 1 HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5922.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Orf Sport+ HD (AT)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",FC Bayern HD (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 1 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5856.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 2 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 3 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 4 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 5 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 1 HD (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5879.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 2 HD (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5880.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 3 HD (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5881.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PLANETSPORT",Planet Sport 4 HD (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5882.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena sport 1 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 2 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5865.m3u8
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="ARENASPORT",Arena Sport 3 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 4 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5867.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 5 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 6 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5869.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5870.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub Golf (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5878.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub 1 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5871.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub 2 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5872.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub 3 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5873.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub 4 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",Sport Klub 5 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5876.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTCLUB",SPORT KLUB 6 (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 1 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5889.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 2 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5890.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 3 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5891.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 4 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5892.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Arena Sport 5 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 1 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 2 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 3 HD (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 4 (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5897.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 5 (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5898.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ARENASPORT",Sport Klub 6 (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5899.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Bundes Liga 1 (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7406.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Bundes Liga 2 (DE)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7407.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Nova Sport HD (BIH)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5884.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sportska TV (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Kreator (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Fight Chanel (HR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Nba HD (US)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7386.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Tv Partizan (SR)
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/5886.m3u8
+
