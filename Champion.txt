@@ -1,0 +1,208 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",RMC Sport 1 HD
+http://jockeriptv.com:8080/live/navaro/navaro/622.m3u8
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",BEIN SPORT 11 HD
+http://jockeriptv.com:8080/live/navaro/navaro/34.m3u8
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",BT Sport 1 HD UK
+http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",MatchFutbol1
+http://vip.homeiptv.org:55978/MatchFutbol1
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",MatchFutbol2
+http://vip.homeiptv.org:55978/MatchFutbol2
+#EXTINF:-1 tvg-logo="mmm" group-title="CHAMPION LEAGUE",MatchFutbol3
+http://vip.homeiptv.org:55978/MatchFutbol3
+
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 1 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49213
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 2 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49214
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 3 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49215
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 4 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49216
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="RMC SPORT 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 5 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49217
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="RMC SPORT 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 6 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49218
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="RMC SPORT 7 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 7 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49219
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="RMC SPORT 8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 8 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49220
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="RMC SPORT 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 9 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49221
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="RMC SPORT 10 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 10 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49222
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="RMC SPORT 11 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 11 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49223
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="RMC SPORT 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 12 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49224
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="RMC SPORT 13 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 13 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49225
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="RMC SPORT 14 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 14 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49226
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="RMC SPORT 15 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 15 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49227
+
+
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 1 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49229
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 2 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49230
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 3 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49231
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 4
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52518
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 5
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52519
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 6
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52520
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 7
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52521
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 8
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52522
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2073_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 9
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52523
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2074_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 10
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52524 
+
+#EXTINF:-1 group-title="MOVIE",US : CINEMAX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13560
+#EXTINF:-1 group-title="MOVIE",US : EPIX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13606
+#EXTINF:-1 group-title="MOVIE",US : EPIX 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/42473
+#EXTINF:-1 group-title="MOVIE",US : FX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/324
+#EXTINF:-1 group-title="MOVIE",US : FXM
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1271
+#EXTINF:-1 group-title="MOVIE",US : FXX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/323
+#EXTINF:-1 group-title="MOVIE",ES : STARZ ENCORE WESTERN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88679
+#EXTINF:-1 group-title="MOVIE",ES : STARZ FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88741
+#EXTINF:-1 group-title="MOVIE",MX : FOX LIFE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88739
+#EXTINF:-1 group-title="MOVIE",MX : FOX PREMIUM ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88746
+#EXTINF:-1 group-title="MOVIE",US : STARZ CINEMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/328
+#EXTINF:-1 group-title="MOVIE",US : STARZ COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8844
+#EXTINF:-1 group-title="MOVIE",US : STARZ EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/329
+#EXTINF:-1 group-title="MOVIE",US : STARZ EDGE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/558
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/344
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8849
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE CLASSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56140
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56009
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE SUSPENSE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55999
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56007
+#EXTINF:-1 group-title="MOVIE",US : STARZ ENCORE WESTERNS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1601
+#EXTINF:-1 group-title="MOVIE",US : SYFY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/245
+#EXTINF:-1 group-title="MOVIE",CA : FX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/16201
+#EXTINF:-1 group-title="MOVIE",CA : FXX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/16200
+#EXTINF:-1 group-title="MOVIE",CA : HBO 1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3245
+#EXTINF:-1 group-title="MOVIE",CA : HBO 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3244
+
+#EXTINF:-1 group-title="LIFETIME",CA : DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3263
+#EXTINF:-1 group-title="LIFETIME",CA : DISCOVERY SCIENCE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3262
+#EXTINF:-1 group-title="LIFETIME",CA : DISNEY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3261
+#EXTINF:-1 group-title="LIFETIME",CA : DISNEY JR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3260
+#EXTINF:-1 group-title="LIFETIME",CA : DISNEY XD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65851
+#EXTINF:-1 group-title="LIFETIME",CA : DIY NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13236
+#EXTINF:-1 group-title="LIFETIME",CA : DOCUMENTARY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3259
+#EXTINF:-1 group-title="LIFETIME",CA : H2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/91264
+#EXTINF:-1 group-title="LIFETIME",CA : HGTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3243
+#EXTINF:-1 group-title="LIFETIME",CA : HISTORY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3242
+#EXTINF:-1 group-title="LIFETIME",CA : KNOWLEDGE NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63662
+#EXTINF:-1 group-title="LIFETIME",CA : LIFETIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65843
+#EXTINF:-1 group-title="LIFETIME",CA : LOVE NATURE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/66744
+#EXTINF:-1 group-title="LIFETIME",CA : MAKEFUL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65841
+#EXTINF:-1 group-title="LIFETIME",CA : MLB NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65842
+#EXTINF:-1 group-title="LIFETIME",CA : MOTORTREND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/16196
+#EXTINF:-1 group-title="LIFETIME",CA : MOVIETIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13231
+#EXTINF:-1 group-title="LIFETIME",CA : NAT GEO WILD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65838
+#EXTINF:-1 group-title="LIFETIME",CA : NATIONAL GEOGRAPHIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13233
+#EXTINF:-1 group-title="LIFETIME",CA : NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65840
+#EXTINF:-1 group-title="LIFETIME",CA : NBC GOLF
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3403
+#EXTINF:-1 group-title="LIFETIME",CA : NBC WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/91260
+#EXTINF:-1 group-title="LIFETIME",CA : NFL NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3402
+#EXTINF:-1 group-title="LIFETIME",US : DESTINATION AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14946
+#EXTINF:-1 group-title="LIFETIME",CA : NICKELODEON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3238
+#EXTINF:-1 group-title="LIFETIME",CA : NTV NEWFOUNDLAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36347
+#EXTINF:-1 group-title="LIFETIME",CA : OLN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65837
+#EXTINF:-1 group-title="LIFETIME",CA : OMNI EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65836
+#EXTINF:-1 group-title="LIFETIME",CA : OMNI PRINCE GEORGE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/91271
+#EXTINF:-1 group-title="LIFETIME",CA : OMNI.1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65835
+#EXTINF:-1 group-title="LIFETIME",CA : OMNI.2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/65834
+
+#EXTINF:-1 group-title="MUSIC",CA : MTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13229
+#EXTINF:-1 group-title="MUSIC",CA : MTV 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13230
+#EXTINF:-1 group-title="MUSIC",CA : MUCH MUSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13228
+#EXTINF:-1 group-title="MUSIC",ES : MTV HITS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88786
+#EXTINF:-1 group-title="MUSIC",ES : MTV LIVE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88787
+#EXTINF:-1 group-title="MUSIC",MUSIC : 30A MUSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/52924
+#EXTINF:-1 group-title="MUSIC",MUSIC : CALIFORNIA MUSIC CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/16815
+#EXTINF:-1 group-title="MUSIC",MUSIC : KERRANG
+http://185.232.53.5:2086/wickeduk/etqyhww45e/22403
+#EXTINF:-1 group-title="MUSIC",MUSIC : MTV CLASSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/22400
+#EXTINF:-1 group-title="MUSIC",MUSIC : MTV DANCE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/22399
+#EXTINF:-1 group-title="MUSIC",MUSIC : MTV HITS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/22398
+#EXTINF:-1 group-title="MUSIC",MUSIC : MTV LIVE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/22397
