@@ -1,0 +1,932 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORTS", beIN Sports 1
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/bein1_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="http://x1.cdn.broiptv.online/img/bein2.png" group-title="SPORTS", beIN Sports 2
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/bein2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports" tvg-logo="http://x1.cdn.broiptv.online/img/useesports1.png" group-title="SPORTS", UseeSports
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/useesport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports 2" tvg-logo="http://x1.cdn.broiptv.online/img/useesports2.png" group-title="SPORTS", UseeSports 2
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/useesports2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="http://x1.cdn.broiptv.online/img/champions1.png" group-title="SPORTS", Champion TV 1
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion1_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="http://x1.cdn.broiptv.online/img/champions2.png" group-title="SPORTS", Champion TV 2
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="http://x1.cdn.broiptv.online/img/foxsports1.png" group-title="SPORTS", FOX Sports
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/foxsport1_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://x1.cdn.broiptv.online/img/foxsports2.png" group-title="SPORTS", FOX Sports 2
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/foxsport2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://x1.cdn.broiptv.online/img/foxsports3.png" group-title="SPORTS", FOX Sports 3
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/foxsport3_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="http://x1.cdn.broiptv.online/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/natgeo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic People" tvg-logo="http://x1.cdn.broiptv.online/img/natgeopeople.png" group-title="KNOWLEDGE", National Geographic People
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/natgeopeople_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="http://x1.cdn.broiptv.online/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/natgeowild_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://x1.cdn.broiptv.online/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/disco_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://x1.cdn.broiptv.online/img/nba.png" group-title="SPORTS", NBA TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/nba_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Trampil" tvg-logo="http://x1.cdn.broiptv.online/img/ruangterampil.png" group-title="LOCAL", Ruang Trampil
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/useeinfo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="http://x1.cdn.broiptv.online/img/useephoto.png" group-title="LOCAL", Usee Photo
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/useephoto_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseePrime" tvg-logo="http://x1.cdn.broiptv.online/img/useeprime.png" group-title="LOCAL", UseePrime
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/useeprime_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Idku" tvg-logo="http://x1.cdn.broiptv.online/img/idku.png" group-title="LOCAL", Idku
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/idku_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indihome Shopping" tvg-logo="http://x1.cdn.broiptv.online/img/indishopping.png" group-title="LOCAL", Indihome Shopping
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/indishopping_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://x1.cdn.broiptv.online/img/tvri.png" group-title="LOCAL", TVRI
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tvri_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar SD" tvg-logo="http://x1.cdn.broiptv.online/img/indosiar.png" group-title="LOCAL", Indosiar SD
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/indosiar_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="http://x1.cdn.broiptv.online/img/jitv.png" group-title="LOCAL", JITV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/jitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="http://x1.cdn.broiptv.online/img/kompastv.png" group-title="LOCAL", Kompas TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/kompastv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://x1.cdn.broiptv.online/img/metrotv.png" group-title="LOCAL", Metro TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/metrotv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="http://x1.cdn.broiptv.online/img/net.png" group-title="LOCAL", Net TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/net_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://x1.cdn.broiptv.online/img/rtv.png" group-title="LOCAL", Rajawali TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/rtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="http://x1.cdn.broiptv.online/img/rri.png" group-title="LOCAL", RRI NET
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/rrinet_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://x1.cdn.broiptv.online/img/sctv.png" group-title="LOCAL", SCTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/sctv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://x1.cdn.broiptv.online/img/trans7.png" group-title="LOCAL", Trans 7
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/trans7_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://x1.cdn.broiptv.online/img/transtv.png" group-title="LOCAL", Trans TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/transtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M Shop" tvg-logo="http://x1.cdn.broiptv.online/img/mshop.png" group-title="LOCAL", M Shop
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mncshop_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation (Backup)
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/crimeinvestigation_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="http://x1.cdn.broiptv.online/img/antara.png" group-title="LOCAL", Antara
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/antara_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="http://x1.cdn.broiptv.online/img/idx.png" group-title="NEWS", IDX
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/idx_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="http://x1.cdn.broiptv.online/img/babyfirst.png" group-title="KIDS", Baby First
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/babyfirst_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="http://x1.cdn.broiptv.online/img/balitv.png" group-title="LOCAL", Bali TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/balitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="http://x1.cdn.broiptv.online/img/beritasatu.png" group-title="NEWS", Berita Satu
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/beritasatu_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="http://x1.cdn.broiptv.online/img/citradrama.png" group-title="ENTERTAINMENT", Citra Drama
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cdrama_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="http://x1.cdn.broiptv.online/img/duck.png" group-title="KIDS", Duck TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/ducktv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="http://x1.cdn.broiptv.online/img/dunialain.png" group-title="ENTERTAINMENT", Dunia Lain
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/dunialain_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW (English)" tvg-logo="http://x1.cdn.broiptv.online/img/dwtv.png" group-title="NEWS", DW (English)
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/dwtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="http://x1.cdn.broiptv.online/img/france24.png" group-title="NEWS", France 24
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/france24_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="http://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/horee_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://x1.cdn.broiptv.online/img/imc.png" group-title="MOVIES", IMC
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/imc_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JakTV" tvg-logo="http://x1.cdn.broiptv.online/img/jaktv.png" group-title="LOCAL", JakTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/jaktv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://x1.cdn.broiptv.online/img/jtv.png" group-title="LOCAL", JTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/jtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="http://x1.cdn.broiptv.online/img/tvmui.png" group-title="RELIGI", MUI TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/muitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="http://x1.cdn.broiptv.online/img/mytv.png" group-title="LOCAL", MyTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mytv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Asia" tvg-logo="http://x1.cdn.broiptv.online/img/newsasia.png" group-title="NEWS", News Asia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/newsasia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://x1.cdn.broiptv.online/img/mtvlive.png" group-title="MUSIC", MTV Live
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mtvlive_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="http://x1.cdn.broiptv.online/img/citradangdut.png" group-title="MUSIC", Citra Dangdut
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/citradangdut_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="http://x1.cdn.broiptv.online/img/tvedukasi.png" group-title="LOCAL", TV Edukasi
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tvedukasi_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="http://x1.cdn.broiptv.online/img/tv9.png" group-title="RELIGI", TV9 NU
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tv9_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UChannel" tvg-logo="http://x1.cdn.broiptv.online/img/uchannel.png" group-title="RELIGI", UChannel
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/uchannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="http://x1.cdn.broiptv.online/img/aljazeera.png" group-title="NEWS", Aljazeera
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/aljazeera_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem" tvg-logo="http://x1.cdn.broiptv.online/img/alquran.png" group-title="RELIGI", AlQuran Kareem
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/alquran_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://x1.cdn.broiptv.online/img/arirang.png" group-title="ENTERTAINMENT", Arirang
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/arirang_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://x1.cdn.broiptv.online/img/tawaftv.png" group-title="RELIGI", Tawaf TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tawaftv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://x1.cdn.broiptv.online/img/boomerang.png" group-title="KIDS", Boomerang
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/boomerang_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="http://x1.cdn.broiptv.online/img/mqtv.png" group-title="RELIGI", MQTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mqtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/celestialmovie_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTATV" tvg-logo="http://x1.cdn.broiptv.online/img/mtatv.png" group-title="RELIGI", MTATV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mtatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV" tvg-logo="http://x1.cdn.broiptv.online/img/muhammadiyahtv.png" group-title="RELIGI", Muhammadiyah TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/muhammadiyahtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="http://x1.cdn.broiptv.online/img/cinemaworld.png" group-title="MOVIES", Cinema World
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cinemaworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="http://x1.cdn.broiptv.online/img/rodjatv.png" group-title="RELIGI", Rodja TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/rodjatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://x1.cdn.broiptv.online/img/animax.png" group-title="ENTERTAINMENT", Animax
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/animax_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://x1.cdn.broiptv.online/img/axn.png" group-title="ENTERTAINMENT", AXN
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/axn_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT", TVN
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tvn_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", TVN Movies
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tvnmovies_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://x1.cdn.broiptv.online/img/kbsworld.png" group-title="ENTERTAINMENT", KBS World
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/kbsworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant" tvg-logo="http://x1.cdn.broiptv.online/img/blueant.png" group-title="ENTERTAINMENT", Blue Ant
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/blueant_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="http://x1.cdn.broiptv.online/img/blueantext.png" group-title="ENTERTAINMENT", Blue Ant Extreme
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/blueantextreme_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="http://x1.cdn.broiptv.online/img/abc_australia.png" group-title="NEWS", ABC Australia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/abcaustralia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://x1.cdn.broiptv.online/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/bioskopindonesia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://x1.cdn.broiptv.online/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cartoonnetwork_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="http://x1.cdn.broiptv.online/img/chinesedrama.png" group-title="ENTERTAINMENT", Chinese Drama
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/chinesedrama_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://x1.cdn.broiptv.online/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cnnindonesia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://x1.cdn.broiptv.online/img/cnninternational.png" group-title="NEWS", CNN International
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cnninternational_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://x1.cdn.broiptv.online/img/lifetime.png" group-title="ENTERTAINMENT", Lifetime
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/lifetime_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="http://x1.cdn.broiptv.online/img/daaitv.png" group-title="LOCAL", Daai TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/daaitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia anak" tvg-logo="http://x1.cdn.broiptv.online/img/duniaanak.png" group-title="KIDS", Dunia anak
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/duniaanak_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="http://x1.cdn.broiptv.online/img/eatgo.png" group-title="ENTERTAINMENT", Eat & Go
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/eatgo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="http://x1.cdn.broiptv.online/img/flik.png" group-title="MOVIES", Flik
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/flik_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="http://x1.cdn.broiptv.online/img/galaxy.png" group-title="MOVIES", Galaxy
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/galaxy_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="http://x1.cdn.broiptv.online/img/galaxy_premium.png" group-title="MOVIES", Galaxy Premium
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/galaxypremium_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="http://x1.cdn.broiptv.online/img/thrill.png" group-title="ENTERTAINMENT", Thrill
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/thrill_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://x1.cdn.broiptv.online/img/history.png" group-title="KNOWLEDGE", History
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/history_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://x1.cdn.broiptv.online/img/insert.png" group-title="LOCAL", Insert
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/insert_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="http://x1.cdn.broiptv.online/img/kix.png" group-title="ENTERTAINMENT", Kix
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/kix_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://x1.cdn.broiptv.online/img/nickjr.png" group-title="KIDS", Nick Junior
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/nickjr_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS", Nickelodeon
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/nickelodeon_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="http://x1.cdn.broiptv.online/img/pramborstv.png" group-title="MUSIC", Prambors
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/pramborstv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="http://x1.cdn.broiptv.online/img/wakuwaku.png" group-title="ENTERTAINMENT", Waku Waku Japan
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/wakuwaku_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://x1.cdn.broiptv.online/img/warner.png" group-title="ENTERTAINMENT", Warner
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/warner_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus" tvg-logo="http://x1.cdn.broiptv.online/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/aniplus_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="http://x1.cdn.broiptv.online/img/bloomberg.png" group-title="NEWS", Bloomberg
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/bloomberg_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://x1.cdn.broiptv.online/img/cctv4.png" group-title="ENTERTAINMENT", CCTV4
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cctv4_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="http://x1.cdn.broiptv.online/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cgtndocumentary_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lingua" tvg-logo="http://x1.cdn.broiptv.online/img/linguachannel.png" group-title="KNOWLEDGE", Lingua
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/lingua_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="http://x1.cdn.broiptv.online/img/davinci.png" group-title="KIDS", Da Vinci Learning
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/davinci_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="http://x1.cdn.broiptv.online/img/dreamworks.png" group-title="KIDS", Dreamworks
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/dreamworks_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="http://x1.cdn.broiptv.online/img/mykidz.png" group-title="KIDS", My Kidz
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/mykids_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="egg network" tvg-logo="http://x1.cdn.broiptv.online/img/egg.png" group-title="SPORTS", egg network
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/egg_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://x1.cdn.broiptv.online/img/euronews.png" group-title="NEWS", Euronews
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/euronews_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="http://x1.cdn.broiptv.online/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cnbcindonesia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia" tvg-logo="http://x1.cdn.broiptv.online/img/cnbc_asia.png" group-title="NEWS", CNBC Asia
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/cnbcasia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="http://x1.cdn.broiptv.online/img/trtworld.png" group-title="NEWS", TRT World
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/trtworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="http://x1.cdn.broiptv.online/img/fashionone.png" group-title="ENTERTAINMENT", Fashion One
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/fashionone_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="http://x1.cdn.broiptv.online/img/fashiontv.png" group-title="ENTERTAINMENT", FashionTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/fashiontv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://x1.cdn.broiptv.online/img/hgtv.png" group-title="KNOWLEDGE", HGTV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/hgtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="http://x1.cdn.broiptv.online/img/kplus.png" group-title="ENTERTAINMENT", Kplus
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/kplus_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="http://x1.cdn.broiptv.online/img/nhkworld.png" group-title="ENTERTAINMENT", NHK World Japan
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/nhkworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony GEM" tvg-logo="http://x1.cdn.broiptv.online/img/sgem.png" group-title="ENTERTAINMENT", Sony GEM
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/sgem_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony ONE" tvg-logo="http://x1.cdn.broiptv.online/img/sone.png" group-title="ENTERTAINMENT", Sony ONE
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/sone_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="http://x1.cdn.broiptv.online/img/tv5monde.png" group-title="ENTERTAINMENT", TV5Monde
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/tv5monde_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="http://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", Zee Bioskop
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/zbioskop_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://x1.cdn.broiptv.online/img/afc.png" group-title="ENTERTAINMENT", Asian Food Network
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/afc_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El John TV" tvg-logo="http://x1.cdn.broiptv.online/img/eljohn.png" group-title="ENTERTAINMENT", El John TV
+#EXTVLCOPT:http-user-agent="UseeTVAndroid"
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/eljohn_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1 (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/champions1.png" group-title="SPORTS", Champion TV 1 (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6685_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2 (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/champions2.png" group-title="SPORTS", Champion TV 2 (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6686_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 3" tvg-logo="http://x1.cdn.broiptv.online/img/champions3.png" group-title="SPORTS", Champion TV 3
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6786_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/sctv.png" group-title="LOCAL", SCTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/204_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD" tvg-logo="http://x1.cdn.broiptv.online/img/indosiar.png" group-title="LOCAL", Indosiar HD
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/205_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ochannel" tvg-logo="http://x1.cdn.broiptv.online/img/ochannel.png" group-title="LOCAL", Ochannel
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/206_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/kompastv.png" group-title="LOCAL", Kompas TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/874_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/beritasatu.png" group-title="NEWS", Berita Satu (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6165_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/metrotv.png" group-title="LOCAL", Metro TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/777_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/transtv.png" group-title="LOCAL", Trans TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/733_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans7 (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/trans7.png" group-title="LOCAL", Trans7 (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/734_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaktv (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/jaktv.png" group-title="LOCAL", Jaktv (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/5415_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/net.png" group-title="LOCAL", Net TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/875_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/rtv.png" group-title="LOCAL", Rajawali TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/1561_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OShop" tvg-logo="http://x1.cdn.broiptv.online/img/oshop.png" group-title="LOCAL", OShop
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6166_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/tvri.png" group-title="LOCAL", TVRI (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6441_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/mytv.png" group-title="LOCAL", MyTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6711_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/daaitv.png" group-title="LOCAL", DAAI TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6482_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT", TVN (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6362_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://x1.cdn.broiptv.online/img/citrabioskop.png" group-title="MOVIES", Citra Bioskop
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6684_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", Zee Bioskop (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6399_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/citradrama.png" group-title="ENTERTAINMENT", Citra Drama (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6401_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/citradangdut.png" group-title="MUSIC", Citra Dangdut (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6587_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://x1.cdn.broiptv.online/img/citraent.png" group-title="ENTERTAINMENT", Citra Entertainment
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6402_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="http://x1.cdn.broiptv.online/img/zing.png" group-title="ENTERTAINMENT", Zing
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6747_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/arirang.png" group-title="ENTERTAINMENT", Arirang (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6784_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Asia (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/newsasia.png" group-title="NEWS", News Asia (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6411_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/aljazeera.png" group-title="NEWS", Aljazeera (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6410_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="euronews. (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/euronews.png" group-title="NEWS", euronews. (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6412_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW English (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/dwtv.png" group-title="NEWS", DW English (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/5075_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/abc_australia.png" group-title="NEWS", ABC Australia (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/7150_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="http://x1.cdn.broiptv.online/img/zoomoo.png" group-title="KIDS", Zoomoo
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6533_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/davinci.png" group-title="KIDS", Da Vinci Learning (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6549_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee" tvg-logo="http://x1.cdn.broiptv.online/img/hiphiphoree.png" group-title="KIDS", Hip Hip Horee
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/7052_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6397_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/tvedukasi.png" group-title="LOCAL", TV Edukasi (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6838_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://x1.cdn.broiptv.online/img/lovenature.png" group-title="KNOWLEDGE", Love Nature
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6635_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian" tvg-logo="http://x1.cdn.broiptv.online/img/smithsonian.png" group-title="KNOWLEDGE", Smithsonian
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6550_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Muslim" tvg-logo="http://x1.cdn.broiptv.online/img/citramuslim.png" group-title="RELIGI", Citra Muslim
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6678_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 TV" tvg-logo="http://x1.cdn.broiptv.online/img/reformed21.png" group-title="RELIGI", Reformed 21 TV
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6853_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/alquran.png" group-title="RELIGI", AlQuran Kareem (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/gerbil/6852_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://x1.cdn.broiptv.online/img/antv.png" group-title="LOCAL", ANTV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/antv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="http://x1.cdn.broiptv.online/img/tvone.png" group-title="LOCAL", TVOne
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/tvone_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-Konser" tvg-logo="http://x1.cdn.broiptv.online/img/ikonser.png" group-title="MUSIC", I-Konser
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/ikonser_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V-Channel" tvg-logo="http://x1.cdn.broiptv.online/img/channel_v.png" group-title="MUSIC", V-Channel
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/vchannel_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="http://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES", Fox Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies" tvg-logo="http://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES", Fox Family Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action Movies" tvg-logo="http://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES", Fox Action Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES", Fox
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES", Fox Crime
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_crime_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES", Fox Life
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fox_life_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES", FX
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fx_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies" tvg-logo="http://x1.cdn.broiptv.online/img/scm.png" group-title="MOVIES", Star Chinese Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/star_chinese_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="http://x1.cdn.broiptv.online/img/scm_legend.png" group-title="MOVIES", Star Chinese Movies Legend
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/star_chinese_movies_legend_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="http://x1.cdn.broiptv.online/img/hits_movies.png" group-title="MOVIES", HITS MOVIES
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/hits_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="http://x1.cdn.broiptv.online/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://x1.cdn.broiptv.online/img/sonymovies.png" group-title="MOVIES", Sony Movies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/sony_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Flix" tvg-logo="http://x1.cdn.broiptv.online/img/&flix.png" group-title="MOVIES", &Flix
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/flix_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://x1.cdn.broiptv.online/img/bbc_earth.png" group-title="KNOWLEDGE", BBC Earth
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/bbc_earth_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://x1.cdn.broiptv.online/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/animal_planet_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="http://x1.cdn.broiptv.online/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/crimeinvestigation_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://x1.cdn.broiptv.online/img/bbc_lifestyle.png" group-title="KNOWLEDGE", BBC Lifestyle
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/bbc_lifestyle_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x1.cdn.broiptv.online/img/tlc.png" group-title="KNOWLEDGE", TLC
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/tlc_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="http://x1.cdn.broiptv.online/img/discovery_asia.jpg" group-title="KNOWLEDGE", Discovery Asia
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/discovery_asia_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://x1.cdn.broiptv.online/img/discovery_turbo.png" group-title="KNOWLEDGE", Discovery Turbo
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/discovery_turbo_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria" tvg-logo="http://x1.cdn.broiptv.online/img/astro_ria.png" group-title="ENTERTAINMENT", Astro Ria
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/astro_ria_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="http://x1.cdn.broiptv.online/img/astro_warna.png" group-title="ENTERTAINMENT", Astro Warna
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/astro_warna_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="http://x1.cdn.broiptv.online/img/astro_ceria.png" group-title="KIDS", Astro Ceria
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/astro_ceria_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="http://x1.cdn.broiptv.online/img/astro_prima.png" group-title="ENTERTAINMENT", Astro Prima
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/astro_prima_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://x1.cdn.broiptv.online/img/rtm_3.png" group-title="ENTERTAINMENT", TV 3
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/tv3_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="http://x1.cdn.broiptv.online/img/cbeebies.png" group-title="KIDS", CBeebies
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/cbeebies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://x1.cdn.broiptv.online/img/disney.png" group-title="KIDS", Disney Channel
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/disney_channel_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://x1.cdn.broiptv.online/img/disney_xd.png" group-title="KIDS", Disney XD
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/disney_xd_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://x1.cdn.broiptv.online/img/disney_junior.png" group-title="KIDS", Disney Junior
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/disney_junior_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="http://x1.cdn.broiptv.online/img/fight_sports.png" group-title="SPORTS", Fight Sports
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/fight_sports_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="http://x1.cdn.broiptv.online/img/ufc.png" group-title="SPORTS", UFC TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/ufc_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://x1.cdn.broiptv.online/img/wwe.png" group-title="SPORTS", WWE Network
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/wwe_network_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network (USA Live)" tvg-logo="http://x1.cdn.broiptv.online/img/wwe.png" group-title="SPORTS", WWE Network (USA Live)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/wwe_network_live_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://x1.cdn.broiptv.online/img/eurosport1.png" group-title="SPORTS", Eurosport 1
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/eurosport1_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://x1.cdn.broiptv.online/img/outdoor_channel.png" group-title="KNOWLEDGE", Outdoor Channel
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/outdoorchannel_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outside TV" tvg-logo="http://x1.cdn.broiptv.online/img/outsidetv.png" group-title="KNOWLEDGE", Outside TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/outsidetv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://x1.cdn.broiptv.online/img/comedycentral.png" group-title="ENTERTAINMENT", Comedy Central
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/comedycentral_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Outdoor" tvg-logo="http://x1.cdn.broiptv.online/img/cookingoutdoor.png" group-title="ENTERTAINMENT", Cooking Outdoor
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/norvegicus/cookingoutdoor_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://x1.cdn.broiptv.online/img/sonyten1.png" group-title="SPORTS", Sony Ten 1
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sony_ten1_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://x1.cdn.broiptv.online/img/sonyten2.png" group-title="SPORTS", Sony Ten 2
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sony_ten2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://x1.cdn.broiptv.online/img/sonyten3.png" group-title="SPORTS", Sony Ten 3
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sony_ten3_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/tvone.png" group-title="LOCAL", TVOne (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tvone_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/jtv.png" group-title="LOCAL", JTV (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/jtv_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/antv.png" group-title="LOCAL", ANTV (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/antv_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/cnn_indonesia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/cnbc_indonesia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Asia (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/newsasia.png" group-title="NEWS", News Asia (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/newsasia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="http://x1.cdn.broiptv.online/img/voa.png" group-title="NEWS", VOA
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/voa_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jakarta Globe News" tvg-logo="http://x1.cdn.broiptv.online/img/jakartaglobenews.png" group-title="NEWS", Jakarta Globe News
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/jakarta_globe_news_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Parlemen" tvg-logo="http://x1.cdn.broiptv.online/img/tvparlemen.png" group-title="NEWS", TV Parlemen
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tv_parlemen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="http://x1.cdn.broiptv.online/img/madinahtv.png" group-title="RELIGI", Madinah TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/madinah_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahsan TV" tvg-logo="http://x1.cdn.broiptv.online/img/ahsantv.png" group-title="RELIGI", Ahsan TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ahsan_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="http://x1.cdn.broiptv.online/img/surautv.png" group-title="RELIGI", Surau TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/surau_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insan TV" tvg-logo="http://x1.cdn.broiptv.online/img/insantv.png" group-title="RELIGI", Insan TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/insan_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="http://x1.cdn.broiptv.online/img/tvri_sport.png" group-title="SPORTS", TVRI Sport
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tvrisport_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karaoke Channel" tvg-logo="http://x1.cdn.broiptv.online/img/karaokechannel.png" group-title="MUSIC", Karaoke Channel
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/karaoke_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One Music" tvg-logo="http://x1.cdn.broiptv.online/img/onemusic.jpg" group-title="MUSIC", One Music
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/one_music_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="m20 TV" tvg-logo="http://x1.cdn.broiptv.online/img/m2o.jpg" group-title="MUSIC", m20 TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/m2o_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dil Se" tvg-logo="http://x1.cdn.broiptv.online/img/dilse.png" group-title="MUSIC", Dil Se
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dil_se_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="http://x1.cdn.broiptv.online/img/kdrama.jpg" group-title="ENTERTAINMENT", K Drama
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/kdrama_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/celestial_movie_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="http://x1.cdn.broiptv.online/img/hits.png" group-title="MOVIES", HITS
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/hits_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="http://x1.cdn.broiptv.online/img/astro_awani.png" group-title="ENTERTAINMENT", Astro Awani
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/astro_awani_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="http://x1.cdn.broiptv.online/img/drama_sangat.png" group-title="ENTERTAINMENT", Drama Sangat
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/drama_sangat_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="http://x1.cdn.broiptv.online/img/suria.png" group-title="ENTERTAINMENT", Suria
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/suria_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="http://x1.cdn.broiptv.online/img/vasantham.png" group-title="ENTERTAINMENT", Vasantham
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/vasantham_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="http://x1.cdn.broiptv.online/img/ch8.png" group-title="ENTERTAINMENT", CH8
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ch8_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://x1.cdn.broiptv.online/img/colors.png" group-title="ENTERTAINMENT", Colors
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/colors_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naura" tvg-logo="http://x1.cdn.broiptv.online/img/naura.png" group-title="ENTERTAINMENT", Naura
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/naura_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="http://x1.cdn.broiptv.online/img/rtm_1.png" group-title="ENTERTAINMENT", TV 1
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tv1_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="http://x1.cdn.broiptv.online/img/rtm_2.png" group-title="ENTERTAINMENT", TV 2
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tv2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTM okey" tvg-logo="http://x1.cdn.broiptv.online/img/rtm_okey.png" group-title="ENTERTAINMENT", RTM okey
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/rtm_okey_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="http://x1.cdn.broiptv.online/img/sbs_plus.png" group-title="ENTERTAINMENT", SBS Plus
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sbs_plus_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS Star" tvg-logo="http://x1.cdn.broiptv.online/img/sbs_star.png" group-title="ENTERTAINMENT", SBS Star
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sbs_star_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="http://x1.cdn.broiptv.online/img/ytn.png" group-title="ENTERTAINMENT", YTN
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ytn_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV Midnight Secret" tvg-logo="http://x1.cdn.broiptv.online/img/fashiontvmidnight.png" group-title="ENTERTAINMENT", FashionTV Midnight Secret
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fashiontvmidnight_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="http://x1.cdn.broiptv.online/img/sinema_indonesia.png" group-title="MOVIES", Sinema Indonesia
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sinema_indonesia_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports (Backup)" tvg-logo="http://x1.cdn.broiptv.online/img/fight_sports.png" group-title="SPORTS", Fight Sports (Backup)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fight_sports_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://x1.cdn.broiptv.online/img/fight_network.png" group-title="SPORTS", Fight Network
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fight_network_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="http://x1.cdn.broiptv.online/img/sonysix.png" group-title="SPORTS", Sony Six
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sony_six_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://x1.cdn.broiptv.online/img/rtm_sports.png" group-title="SPORTS", RTM Sports
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/rtm_sports_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="http://x1.cdn.broiptv.online/img/redbulltv.png" group-title="SPORTS", RedBull TV
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/redbull_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="http://x1.cdn.broiptv.online/img/tennis_channel.png" group-title="SPORTS", Tennis Channel
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tennis_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="http://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 1
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/olympic_channel_1_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="http://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 2
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/olympic_channel_2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 3" tvg-logo="http://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 3
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/olympic_channel_3_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 4" tvg-logo="http://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 4
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/olympic_channel_4_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 5" tvg-logo="http://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 5
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/olympic_channel_5_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="http://i.imgur.com/ORACF9q.jpg" group-title="VOD (OTT Navigator & MX Player)", Aladdin (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/aladdin_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible Fallout (2018)" tvg-logo="http://i.imgur.com/2MsvqpJ.jpg" group-title="VOD (OTT Navigator & MX Player)", Mission Impossible Fallout (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/missionimpossiblefallout_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 3 - Parabellum (2019)" tvg-logo="http://i.imgur.com/CxuYWZt.png" group-title="VOD (OTT Navigator & MX Player)", John Wick Chapter 3 - Parabellum (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/johnwickchapter3parabellum_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Angel Has Fallen (2019)" tvg-logo="http://i.imgur.com/ssUDn0M.jpg" group-title="VOD (OTT Navigator & MX Player)", Angel Has Fallen (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/angelhasfallen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avengers - Endgame (2019)" tvg-logo="http://i.imgur.com/lX97zCe.jpg" group-title="VOD (OTT Navigator & MX Player)", Avengers - Endgame (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/avengers_endgame_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Hawk Down (2001)" tvg-logo="http://i.imgur.com/5F2PJdI.jpg" group-title="VOD (OTT Navigator & MX Player)", Black Hawk Down (2001)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/blackhawkdown_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinta Itu Buta (2019)" tvg-logo="http://i.imgur.com/xDSrgC4.jpg" group-title="VOD (OTT Navigator & MX Player)", Cinta Itu Buta (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/cintaitubuta_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="http://i.imgur.com/VSkJEQ2.jpg" group-title="VOD (OTT Navigator & MX Player)", Coco (2017)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/coco_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Rich Asians (2018)" tvg-logo="http://i.imgur.com/bran3GH.jpg" group-title="VOD (OTT Navigator & MX Player)", Crazy Rich Asians (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/crazyrichasians_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon Nobita Chronicle of The Moon Exploration (2019)" tvg-logo="http://i.imgur.com/5299syj.jpg" group-title="VOD (OTT Navigator & MX Player)", Doraemon Nobita Chronicle of The Moon Exploration (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/doremonnobitachronicleofthemoon exploration_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dora And The Lost City of Gold (2019)" tvg-logo="http://i.imgur.com/t2cv3dP.jpg" group-title="VOD (OTT Navigator & MX Player)", Dora And The Lost City of Gold (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/doraandthelostcityofgold_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dua Garis Biru (2019)" tvg-logo="http://i.imgur.com/wCAJst9.jpg" group-title="VOD (OTT Navigator & MX Player)", Dua Garis Biru (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/duagarisbiru_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious - Present Hobbs and Shaw (2019)" tvg-logo="http://i.imgur.com/JkSgABn.jpg" group-title="VOD (OTT Navigator & MX Player)", Fast and Furious - Present Hobbs and Shaw (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fastandfuriouspresenthobbsandshaw_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foxtrot Six (2019)" tvg-logo="http://i.imgur.com/Ar6GAWz.jpg" group-title="VOD (OTT Navigator & MX Player)", Foxtrot Six (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/foxtrotsix_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Writer (2019)" tvg-logo="http://i.imgur.com/xAIp12o.jpg" group-title="VOD (OTT Navigator & MX Player)", Ghost Writer (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ghostwriter_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="It - Chapter 2 (2019)" tvg-logo="http://i.imgur.com/jQfzcTG.jpg" group-title="VOD (OTT Navigator & MX Player)", It - Chapter 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/itchapter2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English Strikes Again (2018)" tvg-logo="http://i.imgur.com/fSuXUaX.jpg" group-title="VOD (OTT Navigator & MX Player)", Johnny English Strikes Again (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/johnnyenglishstrikesagain_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kutuk (2019)" tvg-logo="http://i.imgur.com/Oly9pwj.jpg" group-title="VOD (OTT Navigator & MX Player)", Kutuk (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/kutuk_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makmum (2019)" tvg-logo="http://i.imgur.com/1SFCMWu.jpg" group-title="VOD (OTT Navigator & MX Player)", Makmum (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/makmum_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mendadak Kaya (2019)" tvg-logo="http://i.imgur.com/UJLUUvx.jpg" group-title="VOD (OTT Navigator & MX Player)", Mendadak Kaya (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mendadakkaya_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black International (2019)" tvg-logo="http://i.imgur.com/luOVPQN.jpg" group-title="VOD (OTT Navigator & MX Player)", Men In Black International (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/meninblackinternational_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mile 22 (2018)" tvg-logo="http://i.imgur.com/7c5ytX9.jpg" group-title="VOD (OTT Navigator & MX Player)", Mile 22 (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mile22_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PSP - Gaya Mahasiswa (2019)" tvg-logo="http://i.imgur.com/8QZyb8o.jpg" group-title="VOD (OTT Navigator & MX Player)", PSP - Gaya Mahasiswa (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/pspgayamahasiswa_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pocong The Origin (2019)" tvg-logo="http://i.imgur.com/NqLUVsV.jpg" group-title="VOD (OTT Navigator & MX Player)", Pocong The Origin (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/pocongtheorigin_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon Detective Pikachu (2019)" tvg-logo="http://i.imgur.com/xIIE3cB.jpg" group-title="VOD (OTT Navigator & MX Player)", Pokemon Detective Pikachu (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/pokemondetectivepikachu_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Preman Pensiun (2019)" tvg-logo="http://i.imgur.com/AYc8CPa.jpg" group-title="VOD (OTT Navigator & MX Player)", Preman Pensiun (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/premanpensiun_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)" tvg-logo="http://i.imgur.com/71EJp0Z.jpg" group-title="VOD (OTT Navigator & MX Player)", Rambo: Last Blood (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/rambolastblood_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ready or Not (2019)" tvg-logo="http://i.imgur.com/8MyQxK4.jpg" group-title="VOD (OTT Navigator & MX Player)", Ready or Not (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/readyornot_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman Far From Home (2019)" tvg-logo="http://i.imgur.com/7rrCxfd.jpg" group-title="VOD (OTT Navigator & MX Player)", Spiderman Far From Home (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/spidermanfarfromhome_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tears of The Sun (2003)" tvg-logo="http://i.imgur.com/VazsCMm.jpg" group-title="VOD (OTT Navigator & MX Player)", Tears of The Sun (2003)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tearsofthesun_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Rebirth (2019)" tvg-logo="http://i.imgur.com/0rEKQNZ.jpg" group-title="VOD (OTT Navigator & MX Player)", The Mummy Rebirth (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/themummyrebirth_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Lion King (2019)" tvg-logo="http://i.imgur.com/h3cNHLI.jpg" group-title="VOD (OTT Navigator & MX Player)", The Lion King (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thelionking_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Life of Pets (2019)" tvg-logo="http://i.imgur.com/tTSVTxn.jpg" group-title="VOD (OTT Navigator & MX Player)", The Secret Life of Pets (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thesecretlifeofpets_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Dark Phoenix (2019)" tvg-logo="http://i.imgur.com/Bn3EDjT.png" group-title="VOD (OTT Navigator & MX Player)", X-Men Dark Phoenix (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/xmendarkphoenix_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yowis Ben 2 (2019)" tvg-logo="http://i.imgur.com/iC29mfB.jpg" group-title="VOD (OTT Navigator & MX Player)", Yowis Ben 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/yowisben2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Munafik (2016)" tvg-logo="http://i.imgur.com/ekZXZuv.jpg" group-title="VOD (OTT Navigator & MX Player)", Munafik (2016)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/munafik_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Munafik 2 (2018)" tvg-logo="http://i.imgur.com/TE8KOkv.jpg" group-title="VOD (OTT Navigator & MX Player)", Munafik 2 (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/munafik2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asih (2018)" tvg-logo="http://i.imgur.com/RapDj8f.jpg" group-title="VOD (OTT Navigator & MX Player)", Asih (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/asih_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="http://i.imgur.com/zBMmuFE.jpg" group-title="VOD (OTT Navigator & MX Player)", Extraction (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/extraction_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (2019)" tvg-logo="http://i.imgur.com/vrDgHiA.jpg" group-title="VOD (OTT Navigator & MX Player)", Toy Story 4 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/toystory4_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OnePiece Stampede (2019)" tvg-logo="http://i.imgur.com/4PyPARB.jpg" group-title="VOD (OTT Navigator & MX Player)", OnePiece Stampede (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/onepiecestampede_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shazam (2019)" tvg-logo="http://i.imgur.com/qnIocxc.jpg" group-title="VOD (OTT Navigator & MX Player)", Shazam (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/shazam_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zombieland Double Tap (2019)" tvg-logo="http://i.imgur.com/b79cx4H.jpg" group-title="VOD (OTT Navigator & MX Player)", Zombieland Double Tap (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/zombielanddoubletap_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate (2019)" tvg-logo="http://i.imgur.com/45ozLF2.jpg" group-title="VOD (OTT Navigator & MX Player)", Terminator Dark Fate (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/terminatordarkfate_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes (2009)" tvg-logo="http://i.imgur.com/OtfH9CD.jpg" group-title="VOD (OTT Navigator & MX Player)", Sherlock Holmes (2009)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sherlockholmes_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Man Called Ahok (2018)" tvg-logo="http://i.imgur.com/avxk9aZ.jpg" group-title="VOD (OTT Navigator & MX Player)", A Man Called Ahok (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/amancalledahok_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warkop DKI Reborn (2019)" tvg-logo="http://i.imgur.com/ZJ1MwIS.jpg" group-title="VOD (OTT Navigator & MX Player)", Warkop DKI Reborn (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/warkopdkireborn_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Agreement (2019)" tvg-logo="http://i.imgur.com/V6HAgyU.jpg" group-title="VOD (OTT Navigator & MX Player)", Wedding Agreement (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/weddingagreement_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bumi Manusia (2019)" tvg-logo="http://i.imgur.com/VINhcMN.jpg" group-title="VOD (OTT Navigator & MX Player)", Bumi Manusia (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/bumimanusia_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog (2020)" tvg-logo="http://i.imgur.com/rQ5o2aV.jpg" group-title="VOD (OTT Navigator & MX Player)", Sonic The Hedgehog (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sonicthehedgehog_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mama Mama Jagoan (2018)" tvg-logo="http://i.imgur.com/tVOFvQ3.jpg" group-title="VOD (OTT Navigator & MX Player)", Mama Mama Jagoan (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mamamamajagoan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="http://i.imgur.com/eje5JgH.jpg" group-title="VOD (OTT Navigator & MX Player)", Aquaman (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/aquaman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle 2 Creation (2017)" tvg-logo="http://i.imgur.com/QH01tp2.jpg" group-title="VOD (OTT Navigator & MX Player)", Annabelle 2 Creation (2017)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/annabelle2creation_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abominable (2019)" tvg-logo="http://i.imgur.com/D2Tl0Be.jpg" group-title="VOD (OTT Navigator & MX Player)", Abominable (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/abominable_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avengers - Infinity War (2018)" tvg-logo="http://i.imgur.com/r3wDozO.jpg" group-title="VOD (OTT Navigator & MX Player)", Avengers - Infinity War (2018)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/avengersinfinitywar_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Charlies Angels (2019)" tvg-logo="http://i.imgur.com/6uMGAvB.jpg" group-title="VOD (OTT Navigator & MX Player)", Charlies Angels (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/charliesangels_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sunyi (2019)" tvg-logo="http://i.imgur.com/ycT5FfC.jpg" group-title="VOD (OTT Navigator & MX Player)", Sunyi (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sunyi_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak Hoki (2019)" tvg-logo="http://i.imgur.com/CZS58bB.jpg" group-title="VOD (OTT Navigator & MX Player)", Anak Hoki (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/anakhoki_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Danur 3 Sunyaruri (2019)" tvg-logo="http://i.imgur.com/VJh2TQ8.jpg" group-title="VOD (OTT Navigator & MX Player)", Danur 3 Sunyaruri (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/danur3sunyaruri_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Danur I Can See Ghosts (2017)" tvg-logo="http://i.imgur.com/wOGVi6M.jpg" group-title="VOD (OTT Navigator & MX Player)", Danur I Can See Ghosts (2017)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/danuricanseeghosts_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreadOut (2019)" tvg-logo="http://i.imgur.com/686a5ia.jpg" group-title="VOD (OTT Navigator & MX Player)", DreadOut (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dreadout_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dilan 1991 (2019)" tvg-logo="http://i.imgur.com/q0VEUbT.jpg" group-title="VOD (OTT Navigator & MX Player)", Dilan 1991 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dilan1991_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle Comes Home (2019)" tvg-logo="http://i.imgur.com/qCv1SsC.jpg" group-title="VOD (OTT Navigator & MX Player)", Annabelle Comes Home (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/annabellecomeshome_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hitman Agent 47 (2015)" tvg-logo="http://i.imgur.com/CIwv6zc.jpg" group-title="VOD (OTT Navigator & MX Player)", Hitman Agent 47 (2015)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/hitmanagent47_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="http://i.imgur.com/F9EzTvi.jpg" group-title="VOD (OTT Navigator & MX Player)", Doctor Strange (2016)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/doctorstrange_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frozen II (2019)" tvg-logo="http://i.imgur.com/B9QpJia.jpg" group-title="VOD (OTT Navigator & MX Player)", Frozen II (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/frozenii_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hitman (2007)" tvg-logo="http://i.imgur.com/5o63wkY.jpg" group-title="VOD (OTT Navigator & MX Player)", Hitman (2007)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/hitman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gundala (2019)" tvg-logo="http://i.imgur.com/kOI862p.jpg" group-title="VOD (OTT Navigator & MX Player)", Gundala (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/gundala_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious (2010)" tvg-logo="http://i.imgur.com/iOD3hMv.jpg" group-title="VOD (OTT Navigator & MX Player)", Insidious (2010)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/insidious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious Chapter 2 (2013)" tvg-logo="http://i.imgur.com/qP1xW0W.jpg" group-title="VOD (OTT Navigator & MX Player)", Insidious Chapter 2 (2013)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/insidiouschapter2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious Chapter 3 (2015)" tvg-logo="http://i.imgur.com/Fjwy5rK.png" group-title="VOD (OTT Navigator & MX Player)", Insidious Chapter 3 (2015)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/insidiouschapter3_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man (2008)" tvg-logo="http://i.imgur.com/CygbzpD.jpg" group-title="VOD (OTT Navigator & MX Player)", Ip Man (2008)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ipman2008_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 3 (2015)" tvg-logo="http://i.imgur.com/vYAlYmB.jpg" group-title="VOD (OTT Navigator & MX Player)", Ip Man 3 (2015)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ipman2015_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 2 (2010)" tvg-logo="http://i.imgur.com/WmzZb8n.jpg" group-title="VOD (OTT Navigator & MX Player)", Ip Man 2 (2010)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ipman2010_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="http://i.imgur.com/jfhkHCI.jpg" group-title="VOD (OTT Navigator & MX Player)", Joker (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/joker_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapal Goyang Kapten (2019)" tvg-logo="http://i.imgur.com/oBcl61t.jpg" group-title="VOD (OTT Navigator & MX Player)", Kapal Goyang Kapten (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/kapalgoyangkapten_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Koki Koki Cilik 2 (2019)" tvg-logo="http://i.imgur.com/ZLejWEf.jpg" group-title="VOD (OTT Navigator & MX Player)", Koki Koki Cilik 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/kokikokicilik2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuntilanak 2 (2019)" tvg-logo="http://i.imgur.com/Wx2uLzV.jpg" group-title="VOD (OTT Navigator & MX Player)", Kuntilanak 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/kuntilanak2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love for Sale 2 (2019)" tvg-logo="http://i.imgur.com/8fu2rI1.jpg" group-title="VOD (OTT Navigator & MX Player)", Love for Sale 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/loveforsale2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maleficent Mistress of Evil (2019)" tvg-logo="http://i.imgur.com/7SGKQYk.png" group-title="VOD (OTT Navigator & MX Player)", Maleficent Mistress of Evil (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/maleficentmistressofevil_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mata Batin 2 (2019)" tvg-logo="http://i.imgur.com/6lxqf36.jpg" group-title="VOD (OTT Navigator & MX Player)", Mata Batin 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/matabatin2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Move On Aja (2019)" tvg-logo="http://i.imgur.com/PpqMvxO.jpg" group-title="VOD (OTT Navigator & MX Player)", Move On Aja (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/moveonaja_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Stupid Boss 2 (2019)" tvg-logo="http://i.imgur.com/ig7EhDk.jpg" group-title="VOD (OTT Navigator & MX Player)", My Stupid Boss 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mystupidboss2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nanti Kita Cerita Tentang Hari Ini (2020)" tvg-logo="http://i.imgur.com/s6ai1r8.jpg" group-title="VOD (OTT Navigator & MX Player)", Nanti Kita Cerita Tentang Hari Ini (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/nantikitaceritatentanghariini_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scoob (2020)" tvg-logo="http://i.imgur.com/SWgV9oN.jpg" group-title="VOD (OTT Navigator & MX Player)", Scoob (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/scoob_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man (2020)" tvg-logo="http://i.imgur.com/0gsVBMX.jpg" group-title="VOD (OTT Navigator & MX Player)", The Invisible Man (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/theinvisibleman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akhir Kisah Cinta si Doel (2020)" tvg-logo="http://i.imgur.com/WhbMoZs.jpg" group-title="VOD (OTT Navigator & MX Player)", Akhir Kisah Cinta si Doel (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/akhirkisahcintasidoel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perempuan Tanah Jahanam (2019)" tvg-logo="http://i.imgur.com/PLuiz1r.png" group-title="VOD (OTT Navigator & MX Player)", Perempuan Tanah Jahanam (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/perempuantanahjahanam_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers (2020)" tvg-logo="http://i.imgur.com/MkSNyJe.jpg" group-title="VOD (OTT Navigator & MX Player)", Dragon Soldiers (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dragonsoldiers_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="http://i.imgur.com/3sHAfdJ.jpg" group-title="VOD (OTT Navigator & MX Player)", Bad Boys for Life (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/badboysforlife_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2020)" tvg-logo="http://i.imgur.com/84XsYog.jpg" group-title="VOD (OTT Navigator & MX Player)", Abracadabra (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/abracadabra_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perburuan (2019)" tvg-logo="http://i.imgur.com/EMQkL6g.jpg" group-title="VOD (OTT Navigator & MX Player)", Perburuan (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/perburuan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars episode IX - The Rise of Skywalker (2019)" tvg-logo="http://i.imgur.com/unBRO0F.jpg" group-title="VOD (OTT Navigator & MX Player)", Star Wars episode IX - The Rise of Skywalker (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/starwarsepisodeixtheriseofskywalker_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trolls World Tour (2020)" tvg-logo="http://i.imgur.com/BVJPzgq.jpg" group-title="VOD (OTT Navigator & MX Player)", Trolls World Tour (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/trollsworldtour_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Another Child Miseongnyeon (2019)" tvg-logo="http://i.imgur.com/3Mf4MEz.jpg" group-title="VOD (OTT Navigator & MX Player)", Another Child Miseongnyeon (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/anotherchildmiseongnyeon_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends Scorpions Revenge (2020)" tvg-logo="http://i.imgur.com/tsQVUrq.jpg" group-title="VOD (OTT Navigator & MX Player)", Mortal Kombat Legends Scorpions Revenge (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mortalkombatlegendsscorpionsrevenge_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://i.imgur.com/rhuScqZ.jpg" group-title="VOD (OTT Navigator & MX Player)", Bloodshot (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/bloodshot_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Malam Jumat The Movie (2019)" tvg-logo="http://i.imgur.com/MY74wut.jpg" group-title="VOD (OTT Navigator & MX Player)", Malam Jumat The Movie (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/malamjumatthemovie_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 - The Finale (2019)" tvg-logo="http://i.imgur.com/WqKMhAQ.png" group-title="VOD (OTT Navigator & MX Player)", Ip Man 4 - The Finale (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/ipman4thefinale_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Si Doel the Movie 2 (2019)" tvg-logo="http://i.imgur.com/VXrEjI9.jpg" group-title="VOD (OTT Navigator & MX Player)", Si Doel the Movie 2 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/sidoelthemovie2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stuber (2019)" tvg-logo="http://i.imgur.com/Z0QVqHK.jpg" group-title="VOD (OTT Navigator & MX Player)", Stuber (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/stuber_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level (2019)" tvg-logo="http://i.imgur.com/paHJ0Lx.jpg" group-title="VOD (OTT Navigator & MX Player)", Jumanji The Next Level (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/jumanjithenextlevel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I Still Believe (2020)" tvg-logo="http://i.imgur.com/58yxaXx.jpg" group-title="VOD (OTT Navigator & MX Player)", I Still Believe (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/istillbelieve_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gretel and Hansel (2020)" tvg-logo="http://i.imgur.com/1l75eAT.jpg" group-title="VOD (OTT Navigator & MX Player)", Gretel and Hansel (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/gretelandhansel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dilan (1990)" tvg-logo="http://i.imgur.com/f8PnCG5.jpg" group-title="VOD (OTT Navigator & MX Player)", Dilan (1990)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dilan1990_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milea (2020)" tvg-logo="http://i.imgur.com/pyBDfMW.jpg" group-title="VOD (OTT Navigator & MX Player)", Milea (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/milea2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Boys (2019)" tvg-logo="http://i.imgur.com/D0YDj50.jpg" group-title="VOD (OTT Navigator & MX Player)", Pretty Boys (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/prettyboys2019_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Friends Naki on the Monster Island (2011)" tvg-logo="http://i.imgur.com/eG0Asf6.jpg" group-title="VOD (OTT Navigator & MX Player)", Friends Naki on the Monster Island (2011)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/friendsnakionthemonsterisland_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet (2020)" tvg-logo="http://i.imgur.com/T0FLusR.jpg" group-title="VOD (OTT Navigator & MX Player)", Lost Bullet (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/lostbullet_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teman Tapi Menikah 2 (2020)" tvg-logo="http://i.imgur.com/rBpA0yn.jpg" group-title="VOD (OTT Navigator & MX Player)", Teman Tapi Menikah 2 (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/temantapimenikah2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="We Bare Bears The Movie (2020)" tvg-logo="http://i.imgur.com/MDMCOhO.jpg" group-title="VOD (OTT Navigator & MX Player)", We Bare Bears The Movie (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/webarebearsthemovie_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Fast And The Furious (2001)" tvg-logo="http://i.imgur.com/41Kwo1I.jpg" group-title="VOD (OTT Navigator & MX Player)", The Fast And The Furious (2001)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thefastandthefurious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="2Fast 2Furious (2003)" tvg-logo="http://i.imgur.com/3gPCbNV.jpg" group-title="VOD (OTT Navigator & MX Player)", 2Fast 2Furious (2003)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/2fast2furious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="http://i.imgur.com/XmVxcZ5.jpg" group-title="VOD (OTT Navigator & MX Player)", 6 Underground (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/6underground_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009)" tvg-logo="http://i.imgur.com/AXYxBhk.jpg" group-title="VOD (OTT Navigator & MX Player)", Fast & Furious (2009)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fast&furious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast Five (2011)" tvg-logo="http://i.imgur.com/J90jQn3.jpg" group-title="VOD (OTT Navigator & MX Player)", Fast Five (2011)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fastFive_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013)" tvg-logo="http://i.imgur.com/xG8TFyy.jpg" group-title="VOD (OTT Navigator & MX Player)", Fast & Furious 6 (2013)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fast&furious6_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fate Furious (2017)" tvg-logo="http://i.imgur.com/nOiPTgj.jpg" group-title="VOD (OTT Navigator & MX Player)", Fate Furious (2017)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/fatefurious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015)" tvg-logo="http://i.imgur.com/CGW5II2.jpg" group-title="VOD (OTT Navigator & MX Player)", Furious 7 (2015)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/furious7_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Balkan Line (2019)" tvg-logo="http://i.imgur.com/ntzEaEZ.jpg" group-title="VOD (OTT Navigator & MX Player)", The Balkan Line (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thebalkanline_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Fast And The Furious Tokyo Drift (2006)" tvg-logo="http://i.imgur.com/20K3PdT.jpg" group-title="VOD (OTT Navigator & MX Player)", The Fast And The Furious Tokyo Drift (2006)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thefastandthefurioustokyodrift_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Torpedo - U235 (2019)" tvg-logo="http://i.imgur.com/n208Gc9.jpg" group-title="VOD (OTT Navigator & MX Player)", Torpedo - U235 (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/torpedou235_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Train to Busan 2 - Peninsula (2020)" tvg-logo="https://i.imgur.com/AJeSEzO.jpg" group-title="VOD (OTT Navigator & MX Player)", Train to Busan 2 - Peninsula (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/traintobusan2-peninsula_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toko Barang Mantan (2020)" tvg-logo="https://i.imgur.com/eAP4h2W.jpg" group-title="VOD (OTT Navigator & MX Player)", Toko Barang Mantan (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/tokobarangmantan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Kissing Booth 2 (2020)" tvg-logo="https://i.imgur.com/cxiODaO.jpg" group-title="VOD (OTT Navigator & MX Player)", The Kissing Booth 2 (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thekissingbooth2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Preman Pensiun Kesempatan Kedua (2020)" tvg-logo="https://i.imgur.com/RTakaV2.png" group-title="VOD (OTT Navigator & MX Player)", Preman Pensiun Kesempatan Kedua (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/premanpensiunkesempatankedua_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pemburu di Manchester Biru (2020)" tvg-logo="https://i.imgur.com/1rznkG0.jpg" group-title="VOD (OTT Navigator & MX Player)", Pemburu di Manchester Biru (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/pemburudimanchesterbiru_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nikah Yuk (2020)" tvg-logo="https://i.imgur.com/G6OU7W8.jpg" group-title="VOD (OTT Navigator & MX Player)", Nikah Yuk (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/nikahyuk_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mangkujiwo (2020)" tvg-logo="https://i.imgur.com/hJ1IqnK.jpg" group-title="VOD (OTT Navigator & MX Player)", Mangkujiwo (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mangkujiwo_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guru-Guru Gokil (2020)" tvg-logo="https://i.imgur.com/x7Dtr7E.jpg" group-title="VOD (OTT Navigator & MX Player)", Guru-Guru Gokil (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/gurugurugokil_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filosofi Kopi Aroma Gayo (2020)" tvg-logo="https://i.imgur.com/WCKNoGA.jpg" group-title="VOD (OTT Navigator & MX Player)", Filosofi Kopi Aroma Gayo (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/filosofikopiaromagayo_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl (2020)" tvg-logo="https://i.imgur.com/hDH0xRo.jpg" group-title="VOD (OTT Navigator & MX Player)", Artemis Fowl (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/artemisfowl_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Gentlemen (2019)" tvg-logo="https://i.imgur.com/RUfFot0.jpg" group-title="VOD (OTT Navigator & MX Player)", The Gentlemen (2019)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/thegentlemen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://i.imgur.com/uKTrkr4.jpg" group-title="VOD (OTT Navigator & MX Player)", Mekah I'm Coming (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/mekahimcoming_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dignitate (2020)" tvg-logo="https://i.imgur.com/2jMoytd.jpg" group-title="VOD (OTT Navigator & MX Player)", Dignitate (2020)
+http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/pratensis/dignitate_pratensis/playlist.m3u8
