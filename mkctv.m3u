@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL", http://andriant.my.id
-https://dl.dropboxusercontent.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
-#EXTINF: -1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/24/12/29/no-symbol-39767_960_720.png" group-title="LOKAL", Dilarang Untuk Nobar Dan Komersil
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV
 https://raw.githubusercontent.com/zalindo/tv/master/mnctv.m3u8
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV
